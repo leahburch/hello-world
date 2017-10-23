@@ -1,3 +1,4 @@
 # hello-world
 
-This is a test for me. 
+This is a test.
+I've never used Github before.
